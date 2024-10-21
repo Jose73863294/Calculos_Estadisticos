@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3207db4f-8390-4720-88d1-c3d241caa35f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Desviación_Estandar.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SRC/calculos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/test_calculos.py" afterDir="false" />
-    </list>
+    <list default="true" id="3207db4f-8390-4720-88d1-c3d241caa35f" name="Changes" comment="Calculos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +78,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729550082645</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calculos">
+      <option name="closed" value="true" />
+      <created>1729550690554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729550690554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calculos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculos" />
   </component>
 </project>
